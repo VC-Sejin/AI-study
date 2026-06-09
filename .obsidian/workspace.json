@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/테스트 1.md",
+                "file": "Vault/git 테스트입니다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "테스트 1"
+              "title": "git 테스트입니다"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/테스트 1.md",
+                "file": "Vault/git 테스트입니다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "테스트 1 의 백링크"
+              "title": "git 테스트입니다 의 백링크"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vault/테스트 1.md",
+                "file": "Vault/git 테스트입니다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "테스트 1 의 나가는 링크"
+              "title": "git 테스트입니다 의 나가는 링크"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault/테스트 1.md",
+                "file": "Vault/git 테스트입니다.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "테스트 1 의 개요"
+              "title": "git 테스트입니다 의 개요"
             }
           }
         ]
@@ -202,7 +202,7 @@
   },
   "active": "85d172b98d3146a8",
   "lastOpenFiles": [
-    "Vault/테스트 1.md",
+    "Vault/git 테스트입니다.md",
     "환영합니다!.md",
     "Vault"
   ]

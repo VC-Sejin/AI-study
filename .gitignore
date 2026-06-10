@@ -1,3 +1,10 @@
+# macOS
+.DS_Store
+
+# Office 임시 파일
+~$*
+
+# Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/

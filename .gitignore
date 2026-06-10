@@ -8,3 +8,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .trash/
+
+# R
+.Rhistory
+.RData

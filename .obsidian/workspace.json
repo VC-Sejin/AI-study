@@ -6,7 +6,6 @@
       {
         "id": "cb5d47edf288423d",
         "type": "tabs",
-        "dimension": 72.92626728110599,
         "children": [
           {
             "id": "85d172b98d3146a8",
@@ -38,23 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "bba95c26ad41dc01",
-        "type": "tabs",
-        "dimension": 27.07373271889401,
-        "children": [
-          {
-            "id": "31052ce4c40d255b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -229,9 +211,9 @@
   "lastOpenFiles": [
     "2일/2일차 학습.md",
     "2일/필요 산출물 목록.md",
+    "1일/AI도구_워크플로우_정의서.pdf",
     "Vault/git 테스트입니다.md",
     "2일",
-    "1일/AI도구_워크플로우_정의서.pdf",
     "1일/AI도구_워크플로우_정의서.docx",
     "1일",
     "환영합니다!.md",

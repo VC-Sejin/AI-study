@@ -27,7 +27,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/2일/2-1. AI로 IA 작성하기.md",
+                "file": "Vault/3일/2. 대기 ) AI로 WBS 작성하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. 대기 ) AI로 WBS 작성하기"
+            }
+          },
+          {
+            "id": "618681050b5818b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/3일/2-1. AI로 IA 작성하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-1. AI로 IA 작성하기"
+            }
+          },
+          {
+            "id": "22e5739c65b7a122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/3일/2-1. AI로 IA 작성하기.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,22 +232,22 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a334c6bcedf25294",
+  "active": "22e5739c65b7a122",
   "lastOpenFiles": [
+    "Vault/3일/2. 대기 ) AI로 WBS 작성하기.md",
+    "Vault/3일/2-1. AI로 IA 작성하기.md",
+    "Vault/2일/2일차 학습.md",
+    "Vault/3일",
     "Vault/2일/Pasted image 20260610143516.png",
     "Vault/1일/AI도구_워크플로우_정의서.pdf",
     "Vault/필요 산출물 목록.md",
     "Vault/git 테스트입니다.md",
-    "Vault/2일/2일차 학습.md",
-    "Vault/2일/2-1. AI로 IA 작성하기.md",
     "Vault/2일/1-3.AI_요구사항정의서_작성_프롬프트_v0.1.md",
     "Vault/2일/1-2. AI 요구사항정의서(RFP) 작업로그.md",
     "Vault/2일/1-1. AI 요구사항정의서(RFP) 작성하기.md",
-    "Vault/2일/2. 대기 ) AI로 WBS 작성하기.md",
     "Vault/2일",
     "Vault/1일/AI도구_워크플로우_정의서.docx",
     "Vault/1일",

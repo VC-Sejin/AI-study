@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/4일/1-1.  AI WBS 작성하기.md",
+                "file": "Vault/4일/1-2. AI WBS 작업로그.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-1.  AI WBS 작성하기"
+              "title": "1-2. AI WBS 작업로그"
+            }
+          },
+          {
+            "id": "415550c27742b7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/5일/0. 수행사항.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. 수행사항"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,12 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0569e1e8644c0426",
+  "active": "415550c27742b7ff",
   "lastOpenFiles": [
+    "Vault/5일/0. 수행사항 1.md",
+    "Vault/5일/0. 수행사항.md",
     "Vault/4일/1-2. AI WBS 작업로그.md",
+    "Vault/5일",
     "Vault/4일/1-3. AI WBS 작성 프롬프트.md",
-    "Vault/3일/1-3. AI_IA 작성 프롬프트.md",
     "Vault/4일/1-1.  AI WBS 작성하기.md",
+    "Vault/3일/1-3. AI_IA 작성 프롬프트.md",
     "Vault/2일/1-2. AI 요구사항정의서(RFP) 작업로그.md",
     "Vault/3일/1-2. AI로 IA 작성 작업로그.md",
     "Pasted image 20260612142010.png",

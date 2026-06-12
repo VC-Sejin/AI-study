@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/3일/1-2. AI로 IA 작성 작업로그.md",
+                "file": "Vault/4일/0. 수행사항.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-2. AI로 IA 작성 작업로그"
+              "title": "0. 수행사항"
             }
           },
           {
-            "id": "04b9be3c35f17a25",
+            "id": "f97965e2f1667296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/3일/1-2. AI로 IA 작성 작업로그.md",
+                "file": "Vault/4일/1-1.  AI WBS 작성하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-2. AI로 IA 작성 작업로그"
+              "title": "1-1.  AI WBS 작성하기"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,23 +206,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87411527b75b9f2e",
+  "active": "f97965e2f1667296",
   "lastOpenFiles": [
     "Vault/3일/1-1. AI로 IA 작성하기.md",
+    "Vault/2일/1-1. AI 요구사항정의서(RFP) 작성하기.md",
+    "Vault/4일/1-1.  AI WBS 작성하기.md",
+    "Vault/4일/0. 수행사항.md",
+    "Vault/1일/필요 산출물 목록.md",
+    "Vault/1일/AI도구_워크플로우_정의서.pdf",
+    "2일차 학습.md",
     "Vault/3일/1-3. AI_IA 작성 프롬프트.md",
     "Vault/3일/1-2. AI로 IA 작성 작업로그.md",
-    "Vault/4일/2. 대기 ) AI로 WBS 작성하기.md",
     "Vault/2일/1-3. AI 요구사항정의서 작성 프롬프트.md",
     "Vault/2일/1-2. AI 요구사항정의서(RFP) 작업로그.md",
-    "Vault/2일/1-1. AI 요구사항정의서(RFP) 작성하기.md",
     "Vault/4일",
-    "2일차 학습.md",
     "작업로그_IA_더현대Hi.md",
     "Vault/3일/0. 수행사항.md",
-    "Vault/필요 산출물 목록.md",
     "Vault/3일",
     "Vault/2일/Pasted image 20260610143516.png",
-    "Vault/1일/AI도구_워크플로우_정의서.pdf",
     "Vault/git 테스트입니다.md",
     "Vault/2일",
     "Vault/1일/AI도구_워크플로우_정의서.docx",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb5d47edf288423d",
+        "id": "2e065fb82ccef64d",
         "type": "tabs",
         "children": [
           {
-            "id": "0569e1e8644c0426",
+            "id": "95d9d416be5359e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0569e1e8644c0426",
+  "active": "95d9d416be5359e1",
   "lastOpenFiles": [
-    "Vault/6일 - 컴포넌트 파운데이션/1-1.  와이어프레임 컴포넌트 파운데이션 작성.md",
     "Vault/7일 - 에이전트, 앱 만들기/0. 수행사항.md",
+    "Vault/6일 - 컴포넌트 파운데이션/1-1.  와이어프레임 컴포넌트 파운데이션 작성.md",
     "Vault/4일 - WBS/1-1.  AI WBS 작성하기.md",
     "Vault/git 테스트입니다.md",
     "Vault/7일 - 에이전트, 앱 만들기",

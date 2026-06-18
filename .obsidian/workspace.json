@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/5일 - 화면설계서/1-1. AI로 화면설계서 작성하기.md",
+                "file": "Vault/8일 - 앱 만들기 계속수행/0. 수행사항.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-1. AI로 화면설계서 작성하기"
+              "title": "0. 수행사항"
             }
           }
         ]
@@ -193,6 +193,9 @@
   },
   "active": "95d9d416be5359e1",
   "lastOpenFiles": [
+    "Vault/5일 - 화면설계서/1-1. AI로 화면설계서 작성하기.md",
+    "Vault/8일 - 앱 만들기 계속수행/0. 수행사항.md",
+    "Vault/8일 - 앱 만들기 계속수행",
     "Vault/6일 - 컴포넌트 파운데이션/0. 수행사항.md",
     "Vault/6일 - 컴포넌트 파운데이션/1-1.  와이어프레임 컴포넌트 파운데이션 작성.md",
     "Vault/7일 - 에이전트, 앱 만들기/0. 수행사항.md",
@@ -200,7 +203,6 @@
     "Vault/git 테스트입니다.md",
     "Vault/7일 - 에이전트, 앱 만들기",
     "Vault/4일 - WBS/1-2. AI WBS 작업로그.md",
-    "Vault/5일 - 화면설계서/1-1. AI로 화면설계서 작성하기.md",
     "2일차 학습.md",
     "Vault/6일 - 컴포넌트 파운데이션",
     "Vault/3일 - IA/1-1. AI로 IA 작성하기.md",
@@ -223,7 +225,6 @@
     "Vault/2일 - 요구사항정의서/Pasted image 20260610143516.png",
     "Vault/2일 - 요구사항정의서",
     "Vault/1일/AI도구_워크플로우_정의서.docx",
-    "Vault/1일",
-    "AI도구_워크플로우_정의서.pdf"
+    "Vault/1일"
   ]
 }

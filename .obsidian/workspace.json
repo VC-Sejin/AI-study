@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/8일 - 앱 만들기 계속수행/0. 수행사항.md",
+                "file": "Vault/9일(06_22)  - 앱 WBS 수정/0. 수행사항.md",
                 "mode": "source",
                 "source": false
               },
@@ -193,8 +193,10 @@
   },
   "active": "95d9d416be5359e1",
   "lastOpenFiles": [
-    "Vault/5일 - 화면설계서/1-1. AI로 화면설계서 작성하기.md",
     "Vault/8일 - 앱 만들기 계속수행/0. 수행사항.md",
+    "Vault/9일(06_22)  - 앱 WBS 수정/0. 수행사항.md",
+    "Vault/9일(06_22)  - 앱 WBS 수정",
+    "Vault/5일 - 화면설계서/1-1. AI로 화면설계서 작성하기.md",
     "Vault/8일 - 앱 만들기 계속수행",
     "Vault/6일 - 컴포넌트 파운데이션/0. 수행사항.md",
     "Vault/6일 - 컴포넌트 파운데이션/1-1.  와이어프레임 컴포넌트 파운데이션 작성.md",
@@ -224,7 +226,6 @@
     "Vault/3일 - IA",
     "Vault/2일 - 요구사항정의서/Pasted image 20260610143516.png",
     "Vault/2일 - 요구사항정의서",
-    "Vault/1일/AI도구_워크플로우_정의서.docx",
-    "Vault/1일"
+    "Vault/1일/AI도구_워크플로우_정의서.docx"
   ]
 }
